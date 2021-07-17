@@ -1,0 +1,39 @@
+========== CMD do windows =========================
+
+comando dir ----> lista de diretórios.
+cd / ------> entra na pasta c:.
+cd  mais nome da pasta que deseja entrar -----> entra em uma pasta especifica.
+cd .. ----> volta para pasta anterior.
+cls ----> limapa a tela do terminal.
+TECLA TAB ----> completa comandos.
+mkdir + nome da pasta ----> cria uma pasta.
+echo + nome do arquivo que queira criar + > nome e tipo do arquivo que queira criar ---> cria um arquivo dentro da pasta.
+del + nome da pasta ---> deleta todos os arquivos dentro da pasta mas não a pasta.
+rmdir + nome do (diretorio/pasta) + /S + /Q ----> deleta o diretorio.
+
+=========== linha de comando UNIX ==================
+
+cd
+ls
+ls -a ----> exibe pastas e arquivos ocultos
+mkdir
+rm -rf
+
+====================================================
+
+SHA1 -----> Algoritmo de Encriptação
+Objetos Fundamentais
+Sistema Distribuido
+Segurança
+
+======================================================
+
+BLOBS
+TREES
+COMMITS
+
+=======================================================
+
+Iniciar o GIT -----> git init
+Iniciar o versionamento ----> git add
+Criar um commit -----> git commit
